@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\Eze\\Desktop\\Blockchain\\metamask_web3\\contracts\\Helloworld.sol": {
+      "lastModificationDate": 1637541070759,
+      "contentHash": "74aad6bb017fdb8237a1fc490d2359f7",
+      "sourceName": "contracts/Helloworld.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.0"
+      ],
+      "artifacts": [
+        "Helloworld"
+      ]
+    }
+  }
+}
